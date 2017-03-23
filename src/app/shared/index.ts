@@ -1,0 +1,1 @@
+export { Ingradient } from './ingradient';
